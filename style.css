@@ -3329,3 +3329,10 @@ ul, ol {
         grid-template-columns: 1fr;
     }
 }
+
+  #phy {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
